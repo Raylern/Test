@@ -1,1 +1,1 @@
-GIT is nice
+GIT is nice. OMG
